@@ -29,7 +29,8 @@ Le salaire de base dépend du nombre d’heures travaillées en tenant compte de
 ![alt text](https://github.com/christanvt/BulletinSimple/blob/98429a2c5c3acf372cd59b80606fc7de915113d2/images/Cotisations.png?raw=true)
 
 ### Calcul du salaire à verser :
-La prime est calculée en fonction du nombre d’enfants selon les règles suivantes : - 0 enfant : pas de prime
+La prime est calculée en fonction du nombre d’enfants selon les règles suivantes : 
+- 0 enfant : pas de prime
 - 1 enfant : 20€ de prime
 - 2 enfants: 50€ de prime
 - Plus de 2 enfants : 70€ + 20€ par enfants au-dessus de 2
